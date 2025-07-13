@@ -1,4 +1,4 @@
-# 🕸️ PageRank Spider - Web Crawler & Visualizer (Coursera Project)
+# 🕸️ PageRank Spider - Web Crawler & Visualizer 
 
 This project implements a basic **web crawler**, **link extractor**, **PageRank calculator**, and **visualizer** using Python and SQLite. It is part of the **Capstone Project** from the [Python for Everybody](https://www.py4e.com/) specialization by **Dr. Charles Severance (Dr. Chuck)**.
 
@@ -13,9 +13,8 @@ This project implements a basic **web crawler**, **link extractor**, **PageRank 
 
 ---
 
-## 🎥 Demo
 
-![PageRank Demo](https://media.giphy.com/media/3ohzdQ1IynzclJldUQ/giphy.gif)
+![PageRank Demo](https://media.licdn.com/dms/image/v2/D5622AQEWUMe1mUZlGQ/feedshare-shrink_800/B56ZRjfJF0GQAg-/0/1736835899940?e=2147483647&v=beta&t=AHPnv7yp5ZFW-nnn_EJCIJ_aB0zdoT0b3u2BaNUoUiM)
 > Replace with a screen-recorded GIF of your `force.html` graph if available.
 
 ---
